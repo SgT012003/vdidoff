@@ -1,4 +1,4 @@
-const token = "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";
+const token = "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";
 
 // Create a reusable options object with your authorization headers
 const fetchOptions = {
