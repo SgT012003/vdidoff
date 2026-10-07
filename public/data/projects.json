@@ -1,0 +1,22 @@
+{
+    "alias": [
+        {
+            "alias": "SOA-GS1",
+            "title": "Upskilling/Reskilling API",
+            "description": "API RESTful em Golang com Gin-Gonic para plataforma de aprimoramento profissional. Gestão de usuários, trilhas e matrículas com PostgreSQL, Docker e Swagger."
+        },
+        {
+            "alias": "Challeng-Csharp",
+            "title": "CarePlus API",
+            "description": "API RESTful completa em ASP.NET Core 8.0 para gamificação de bem-estar. Arquitetura em camadas com princípios SOLID, Entity Framework Core, Docker e seeding automático."
+        }
+    ],
+    "extra": [
+        {
+            "title": "Sistema de Monitorização de Risco de Incêndio",
+            "description": "Sistema de Monitorização de Risco de Incêndio é uma aplicação web desenvolvida em Flask que integra as APIs OpenWeather e Maps para analisar e visualizar o risco de incêndios florestais em diferentes regiões. O sistema utiliza dados meteorológicos em tempo real para calcular índices de risco e apresenta visualizações interativas, incluindo mapas de calor, gráficos comparativos e análise regional baseada em estrutura de grafos.",
+            "url": "https://github.com/FIAP-ESPR/GS-Dynamic",
+            "stack": "Python"
+        }
+    ]
+}

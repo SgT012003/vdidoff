@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cert-cfaasa",
+    "title": "Cloud Fundamentals, Administration and Solution Architect",
+    "issuer": "FIAP",
+    "date": "2026-04-20",
+    "key": "505fd46ef82325098b0199ad50a66ec4"
+  },
+  {
+    "id": "cert-cdap",
+    "title": "Códigos de Alta Performance",
+    "issuer": "FIAP",
+    "date": "2025-03-11",
+    "key": "00373d6e249c75dbf1f392ec676ebc11"
+  },
+  {
+    "id": "cert-dn",
+    "title": "Desenvolvimento .NET",
+    "issuer": "FIAP",
+    "date": "2025-03-12",
+    "key": "acb4a58df10a56886fbaed1502751d34"
+  },
+  {
+    "id": "cert-dtp",
+    "title": "Design Thinking - Process",
+    "issuer": "FIAP",
+    "date": "2023-10-19",
+    "key": "1f567ddb20462223bde48e5181ae6ff4"
+  },
+  {
+    "id": "cert-fses",
+    "title": "Formação Social e Sustentabilidade",
+    "issuer": "FIAP",
+    "date": "2023-12-11",
+    "key": "df3a75c0fda304defd4162860528112f"
+  },
+  {
+    "id": "cert-gdidt",
+    "title": "Gestão de Infraestrutura de TI",
+    "issuer": "FIAP",
+    "date": "2023-11-08",
+    "key": "3696bc5f7874dd0d3e100ebc590c34fe"
+  },
+  {
+    "id": "cert-iaec",
+    "title": "Inteligência Artificial e Computacional",
+    "issuer": "FIAP",
+    "date": "2026-04-20",
+    "key": "38dcd22fdf5ce5952828c3fcdd4773af"
+  },
+  {
+    "id": "cert-pd",
+    "title": "Python Development",
+    "issuer": "FIAP",
+    "date": "2026-09-30",
+    "key": "21ed5282693a29fc0054d57819837cd9"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "vdidoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/css/input.css -o ./public/assets/style.css",
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/assets/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgT012003/vdidoff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SgT012003/vdidoff/issues"
+  },
+  "homepage": "https://github.com/SgT012003/vdidoff#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.20",
+    "tailwindcss": "^3.4.19"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Junior Backend Analyst (Independent Contractor - LLC)",
+    "company": "Nirooh",
+    "location": "São Paulo, SP, Brazil",
+    "period": "February 2026 - Present",
+    "description": "Architect and maintain cross-platform, server-side, and serverless applications, focusing on seamless, continuous system integration. Developed B2B integration services and inter-application communication modules (DLLs, APKs, PKGs). API development and edge services.",
+    "tech_stack": ["Node.js", "C#", "Golang", "APIs", "B2B"]
+  },
+  {
+    "title": "Backend Development Intern",
+    "company": "Nirooh",
+    "location": "São Paulo, SP, Brazil",
+    "period": "September 2024 - February 2026",
+    "description": "Backend development support, bug fixes, and feature implementations across multiple client projects. Designed and maintained robust backend integrations in Golang between CMS and DSPs/SSPs. Designed and implemented RESTful APIs and optimized database schemas. Actively engaged in Agile/Scrum ceremonies and code reviews.",
+    "tech_stack": [".NET Core", "Node.js", "Python", "Go", "Agile", "SQL"]
+  },
+  {
+    "title": "Operations & Help Desk Intern",
+    "company": "Inviron Technologies S/A",
+    "location": "São Paulo, SP, Brazil",
+    "period": "February 2024 - September 2024",
+    "description": "Diagnosed and resolved a broad spectrum of technical support and system-level issues, honing complex troubleshooting and client communication skills. Strengthened the capability to rapidly analyze user requirements and translate them into effective, practical technical solutions.",
+    "tech_stack": ["Help Desk", "Troubleshooting", "Support"]
+  }
+]

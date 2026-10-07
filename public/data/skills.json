@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Backend",
+    "skills": ["Golang (Gin, vanilla)", "C# (.NET Core 8.0/10, ASP.NET Core)", "Python (Flask)", "Node.js (Nest.js)", "Java"]
+  },
+  {
+    "category": "Frontend",
+    "skills": ["HTML5", "CSS (Vanilla, Tailwindcss)", "JS (ES5, Node.js)", "Preline", "ApexCharts"]
+  },
+  {
+    "category": "Database & ORM",
+    "skills": ["SQL Server", "PostgreSQL", "Entity Framework Core", "Raw SQL / Migrations", "Data Modeling"]
+  },
+  {
+    "category": "DevOps, Cloud & Testing",
+    "skills": ["Docker", "GitHub Actions (CI/CD)", "xUnit", "Moq", "Google Cloud Console", "Swagger/OpenAPI"]
+  },
+  {
+    "category": "Architecture & Algorithms",
+    "skills": ["RESTful APIs", "SOLID Principles", "SOA", "Repository Pattern", "Graph Algorithms"]
+  },
+  {
+    "category": "Soft Skills & Languages",
+    "skills": ["Portuguese (Native)", "English (Advanced)", "Spanish (Basic)", "Problem Solving", "Clean Code"]
+  }
+]

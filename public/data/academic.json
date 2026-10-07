@@ -1,0 +1,468 @@
+{
+  "institution": "FIAP",
+  "location": "São Paulo, SP, Brazil",
+  "degree": "Bachelor of Software Engineering",
+  "period": "Nighttime",
+  "start": "2023-07-01",
+  "end": "2027-06-01",
+  "years": [
+    {
+      "year": 2023,
+      "class": "1ESPR",
+      "courses": [
+        {
+          "name": "Computational Thinking with Python",
+          "grade": 85.2,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 72
+            },
+            {
+              "semester": 2,
+              "grade": 94
+            }
+          ]
+        },
+        {
+          "name": "Differentiated Problem Solving",
+          "grade": 91.7,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 89
+            },
+            {
+              "semester": 2,
+              "grade": 93.5
+            }
+          ]
+        },
+        {
+          "name": "Edge Computing & Computer Systems",
+          "grade": 74.4,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 60
+            },
+            {
+              "semester": 2,
+              "grade": 84
+            }
+          ]
+        },
+        {
+          "name": "Front-end Design",
+          "grade": 94,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 92.5
+            },
+            {
+              "semester": 2,
+              "grade": 95
+            }
+          ]
+        },
+        {
+          "name": "Software & Total Experience design",
+          "grade": 75.1,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 82
+            },
+            {
+              "semester": 2,
+              "grade": 70.5
+            }
+          ]
+        },
+        {
+          "name": "Storytelling e Inspiração Empreendedora",
+          "grade": 89.7,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 93
+            },
+            {
+              "semester": 2,
+              "grade": 87.5
+            }
+          ]
+        },
+        {
+          "name": "Web Development",
+          "grade": 95.4,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 94.5
+            },
+            {
+              "semester": 2,
+              "grade": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "class": "2ESPR",
+      "courses": [
+        {
+          "name": "AGILE METHODOLOGY WITH SQUAD FRAMEWORK",
+          "grade": 93.9,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 92
+            },
+            {
+              "semester": 2,
+              "grade": 95.1
+            }
+          ]
+        },
+        {
+          "name": "AR/ VR MODELLING AND SIMULATION",
+          "grade": 99.6,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 100
+            },
+            {
+              "semester": 2,
+              "grade": 99.3
+            }
+          ]
+        },
+        {
+          "name": "DATA SCIENCE & STATISTICAL COMPUTING",
+          "grade": 88.9,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 75
+            },
+            {
+              "semester": 2,
+              "grade": 98.1
+            }
+          ]
+        },
+        {
+          "name": "Database Design",
+          "grade": 83.7,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 82.5
+            },
+            {
+              "semester": 2,
+              "grade": 84.5
+            }
+          ]
+        },
+        {
+          "name": "DOMAIN DRIVEN DESIGN - JAVA",
+          "grade": 92.6,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 88
+            },
+            {
+              "semester": 2,
+              "grade": 95.6
+            }
+          ]
+        },
+        {
+          "name": "DYNAMIC PROGRAMMING",
+          "grade": 91.3,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 84
+            },
+            {
+              "semester": 2,
+              "grade": 96.1
+            }
+          ]
+        },
+        {
+          "name": "Network Architect Solutions",
+          "grade": 81.7,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 78
+            },
+            {
+              "semester": 2,
+              "grade": 84.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "class": "3ESPS",
+      "courses": [
+        {
+          "name": "Arquitetura Orientada a Serviços (SOA) e Web Services",
+          "grade": 95.1,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 98.6
+            },
+            {
+              "semester": 2,
+              "grade": 92.8
+            }
+          ]
+        },
+        {
+          "name": "Cybersecurity",
+          "grade": 87.8,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 84.7
+            },
+            {
+              "semester": 2,
+              "grade": 89.8
+            }
+          ]
+        },
+        {
+          "name": "C# Software Development",
+          "grade": 93.9,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 93.2
+            },
+            {
+              "semester": 2,
+              "grade": 94.3
+            }
+          ]
+        },
+        {
+          "name": "Inteligência Artificial & Machine Learning",
+          "grade": 84.6,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 93.2
+            },
+            {
+              "semester": 2,
+              "grade": 78.8
+            }
+          ]
+        },
+        {
+          "name": "Mobile Development & IoT",
+          "grade": 88.1,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 95.7
+            },
+            {
+              "semester": 2,
+              "grade": 83
+            }
+          ]
+        },
+        {
+          "name": "Operating Systems",
+          "grade": 92.1,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 99.2
+            },
+            {
+              "semester": 2,
+              "grade": 87.3
+            }
+          ]
+        },
+        {
+          "name": "Physical Computing: IoT & IOB",
+          "grade": 90.3,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 85.7
+            },
+            {
+              "semester": 2,
+              "grade": 93.3
+            }
+          ]
+        },
+        {
+          "name": "Testing, Compliance & Quality Assurance",
+          "grade": 74.3,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": 71.2
+            },
+            {
+              "semester": 2,
+              "grade": 76.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "class": "4ESPS",
+      "courses": [
+        {
+          "name": "APPLIED COMPUTER VISION",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Big Data Architecture & Data Integration",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Business Intelligence & Startup Development",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "GENERATIVE AI for ENGINEERING",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "PROJECT-BASED MAKER LAB",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Robotic Process Automation",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Secure DevOps Tools & Cloud Computing",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Trabalho de Conclusão de Curso",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        },
+        {
+          "name": "Estágio Supervisionado",
+          "grade": null,
+          "semesters": [
+            {
+              "semester": 1,
+              "grade": null
+            },
+            {
+              "semester": 2,
+              "grade": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
