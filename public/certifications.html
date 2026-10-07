@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Certifications - Victor Didoff</title>
-    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap"
+        rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="./assets/style.css">
     <link rel="icon" type="image/png" href="./assets/img/favicon.png">
 </head>
+
 <body class="flex flex-col min-h-screen bg-secondary relative overflow-x-hidden">
     <!-- Ambient Glow Background -->
-    <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-3xl h-[500px] bg-hero-glow blur-[100px] rounded-full opacity-50 pointer-events-none -z-10 animate-pulse-slow"></div>
-    <header class="bg-secondary/70 backdrop-blur-lg border-b border-white/5 sticky top-0 z-50 transition-all duration-300">
+    <div
+        class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-3xl h-[500px] bg-hero-glow blur-[100px] rounded-full opacity-50 pointer-events-none -z-10 animate-pulse-slow">
+    </div>
+    <header
+        class="bg-secondary/70 backdrop-blur-lg border-b border-white/5 sticky top-0 z-50 transition-all duration-300">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-16">
                 <div class="flex-shrink-0 flex items-center">
@@ -20,28 +27,43 @@
                 </div>
                 <nav class="hidden md:flex space-x-8">
                     <a href="./" class="text-neutral hover:text-primary transition-colors font-heading">Home</a>
-                    <a href="experience" class="text-neutral hover:text-primary transition-colors font-heading">Experience</a>
-                    <a href="academic" class="text-neutral hover:text-primary transition-colors font-heading">Academic</a>
+                    <a href="experience"
+                        class="text-neutral hover:text-primary transition-colors font-heading">Experience</a>
+                    <a href="academic"
+                        class="text-neutral hover:text-primary transition-colors font-heading">Academic</a>
                     <a href="certifications" class="text-primary transition-colors font-heading">Certifications</a>
-                    <a href="projects" class="text-neutral hover:text-primary transition-colors font-heading">Projects</a>
+                    <a href="projects"
+                        class="text-neutral hover:text-primary transition-colors font-heading">Projects</a>
                 </nav>
                 <div class="md:hidden flex items-center">
-                    <button id="mobile-menu-btn" class="text-neutral hover:text-primary focus:outline-none"><span translate="no" class="material-icons">menu</span></button>
+                    <button id="mobile-menu-btn" class="text-neutral hover:text-primary focus:outline-none"><span
+                            translate="no" class="material-icons">menu</span></button>
                 </div>
             </div>
         </div>
-        <div id="mobile-menu" class="hidden md:hidden border-t border-neutral/10"><div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-secondary"><a href="./" class="block px-3 py-2 rounded-md text-base font-heading font-medium text-neutral hover:text-primary">Home</a><a href="certifications" class="block px-3 py-2 rounded-md text-base font-heading font-medium text-primary">Certifications</a></div></div>
+        <div id="mobile-menu" class="hidden md:hidden border-t border-neutral/10">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-secondary"><a href="./"
+                    class="block px-3 py-2 rounded-md text-base font-heading font-medium text-neutral hover:text-primary">Home</a><a
+                    href="certifications"
+                    class="block px-3 py-2 rounded-md text-base font-heading font-medium text-primary">Certifications</a>
+            </div>
+        </div>
     </header>
 
     <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
-        <h1 class="text-3xl md:text-4xl font-bold mb-8 font-heading text-primary border-b border-neutral/10 pb-4">Certifications</h1>
-        
+        <h1 class="text-3xl md:text-4xl font-bold mb-8 font-heading text-primary border-b border-neutral/10 pb-4">
+            Certifications</h1>
+
         <div id="certs-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- Certs injected by JS -->
         </div>
     </main>
 
-    <footer class="bg-secondary/50 backdrop-blur-md border-t border-white/5 mt-auto relative z-10"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm text-neutral/70 font-body">&copy; 2026 Victor Didoff. All rights reserved.</div></footer>
-    <script src="../src/js/main.js" type="module"></script>
+    <footer class="bg-secondary/50 backdrop-blur-md border-t border-white/5 mt-auto relative z-10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm text-neutral/70 font-body">&copy;
+            2026 Victor Didoff. All rights reserved.</div>
+    </footer>
+    <script src="../../src/js/main.js" type="module"></script>
 </body>
+
 </html>
