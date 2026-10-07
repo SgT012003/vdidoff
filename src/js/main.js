@@ -14,20 +14,21 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Initialize page specific logic
     const path = window.location.pathname;
-    if (path.endsWith('index.html') || path === '/' || path.endsWith('/')) {
-        await renderSkills();
-    } else if (path.endsWith('experience.html')) {
+
+    if (path.includes('experience')) {
         await renderExperience();
-    } else if (path.endsWith('academic.html')) {
+    } else if (path.includes('academic')) {
         await renderAcademic();
-    } else if (path.endsWith('certifications.html')) {
-        await renderCerts();
-    } else if (path.endsWith('cert-detail.html')) {
+    } else if (path.includes('cert-detail')) {
         await renderCertDetail();
-    } else if (path.endsWith('projects.html')) {
-        await renderProjects();
-    } else if (path.endsWith('project-view.html')) {
+    } else if (path.includes('certifications')) {
+        await renderCerts();
+    } else if (path.includes('project-view')) {
         await renderProjectView();
+    } else if (path.includes('projects')) {
+        await renderProjects();
+    } else {
+        await renderSkills();
     }
 });
 
